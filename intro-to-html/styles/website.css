@@ -1,0 +1,41 @@
+a:hover {
+  color: orange;
+}
+
+button {
+  background-color: rgb(255, 220, 48);
+  color: black;
+  padding: 6px 30px;
+  border: none;
+  border-radius: 15px;
+  transition: opacity 0.15s, background-color 0.15s, color 0.15s,
+    box-shadow 0.15s;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+button:active {
+  opacity: 0.5;
+}
+
+.BuyNow-button {
+  background-color: rgb(255, 166, 0);
+}
+
+p {
+  font-weight: bold;
+}
+
+.Title {
+  font-size: larger;
+}
+
+.price {
+  color: green;
+}
+
+.delivery {
+  font-weight: normal;
+}

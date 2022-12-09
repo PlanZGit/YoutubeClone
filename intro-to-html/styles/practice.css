@@ -1,0 +1,53 @@
+
+  button {
+    background-color: black;
+    color: white;
+    padding: 10 20;
+    margin-right: 5px;
+  }
+
+  .Amazon {
+    background-color: rgb(255, 214, 66);
+    color: black;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 50px;
+  }
+
+  .GitHub {
+    background-color: rgb(32, 170, 32);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .BootstrapGetStarted {
+    background-color: blueviolet;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .BootstrapDownload {
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(123, 122, 122);
+    font-weight: bold;
+    border-width: thin;
+    border-radius: 5px;
+  }
+
+  .LinkedInApply {
+    background-color: rgb(33, 100, 216);
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+  }
+
+  .LinkedInSave {
+    background-color: rgba(33, 100, 216, 0);
+    color: rgb(33, 100, 216);
+    font-weight: bold;
+    border-radius: 20px;
+    border-width: thin;
+    border-color: rgb(33, 100, 216);
+  }

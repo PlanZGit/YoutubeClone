@@ -1,0 +1,26 @@
+.firstName-input,
+.lastName-input {
+  width: 150px;
+  padding: 10px 1px;
+  margin-bottom: 3px;
+}
+.email-input {
+  display: block;
+  padding: 10px 1px;
+  width: 311px;
+  margin-bottom: 3px;
+}
+.signUp-buton {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 135px;
+  margin-bottom: 3px;
+}
+.signUp-buton:hover {
+  opacity: 0.7;
+}
+.signUp-buton:active {
+  opacity: 0.5;
+}
